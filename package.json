@@ -30,6 +30,6 @@
     "vite-plugin-dts": "^4.5.0"
   },
   "dependencies": {
-    "web-bridge-base": "^1.0.1"
+    "web-bridge-base": "^1.0.5"
   }
 }
